@@ -54,6 +54,7 @@ O usuário escolhe uma opção digitando o número correspondente.
 
 - Pietro Vitor Pezzente | RM 557283
 - Kauã Soares Guimarães | RM 559044
+- Lucca Borges | RM 554608
 
 ---
 
